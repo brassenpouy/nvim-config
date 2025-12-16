@@ -1,0 +1,26 @@
+# Lazy.nvim downloaded plugins (auto-reinstalled)
+nvim/lazy/
+
+# Neovim state files
+nvim/undo/
+nvim/swap/
+nvim/backup/
+nvim/sessions/
+nvim/.shada
+nvim/shada/
+
+# Mason installed binaries (auto-reinstalled)
+nvim/mason/
+
+# Neovim log
+nvim/log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+*.swp
+*.swo
+*~
+
